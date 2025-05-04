@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -std=c99 -O3 -Wall -Wextra -Wimplicit -shared  -o suite1.so CMakeFiles/suite1.dir/suite1.c.o CMakeFiles/suite1.dir/__/utils.c.o  -lcunit 
